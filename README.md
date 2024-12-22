@@ -52,5 +52,5 @@ curl -X POST http://localhost:3000/hooks/update-gas-fees
 curl -X POST http://localhost:3000/hooks/update-gas-usage
 ```
 
----
+Showcase project: https://solfees.fyi/
 
